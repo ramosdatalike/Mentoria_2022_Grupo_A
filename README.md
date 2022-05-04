@@ -65,7 +65,7 @@ Pueden seleccionar algunos de estos para contestar los siguientes puntos.
 
 #### Del Dataset news_dataset.csv:
 - Listar providers, cuales conocemos? cuales son los mas grandes?
-Graficar la cantidad de noticias por provider
+- Graficar la cantidad de noticias por provider
 - Graficar la cantidad de noticias por año
 - Graficar la cantidad de noticias por ticker
 - Graficar la cantidad de noticias por ticker y por año
